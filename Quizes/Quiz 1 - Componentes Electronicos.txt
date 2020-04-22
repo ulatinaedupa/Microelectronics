@@ -1,0 +1,69 @@
+¿Que sale mas barato comprar en compañias como Mouser?
+A. BQ500211RGZT
+B. BQ500212ARGZR
+C. BQ500211ARGZT
+D. BQ500211ARGZR
+
+En que proceso se expone el material a luz ultravioleta
+A. Metalizacion
+B. Empacado
+C. Difusion
+D. Implantacion de Iones
+E. Fotolitografia
+F. Todas las anteriores
+G. Ninguna de las anteriores
+
+Un encapsulado SOT-323 tiene:
+A. 3 terminales de E/S
+B. 4 terminales de E/S
+C. 5 terminales de E/S
+D. 6 terminales de E/S
+
+Una resistencia de 470 Ohms 10% de tolerancia tendra las siguientes franjas
+A. Amarillo, Verde, Negro, Oro
+B. Amarillo, Verde, Negro, Plata
+C. Amarillo, Gris, Negro, Oro
+D. Amarillo, Violeta, Chocolate, Plata
+
+Que componentes de los siguiente son necesarios para el cargador a realizar en este curso siendo un Qi WPC
+A. Bq50002a
+B. Bq5103a 
+C. Bq1010b
+D. Bq500511
+E. Mandatoriamente un microcontrolador con interfaz I2C
+F. A y D
+G. B y C
+H. A y E
+
+Los componentes BGA son los unicos con conexiones en la superficie interna
+A. Si
+B. No
+
+En que proceso se alcanza mayor temperatura
+A. Deposicion de vapor quimico
+B. Implantacion de Iones
+C. Oxidacion
+D. Todas las anteriores
+E. Ninguna de las anteriores
+
+Orden del proceso de desarrollo de un IC:
+A. Preparacion de la oblea, Difusion, Oxidacion, Implantacion de Iones, Deposicion de vapor quimico, Metalizacion, Fotolitografia, Empacado
+B. Preparacion de la oblea, Oxidacion, Difusion, Deposicion de vapor quimico, Implantacion de Iones, Metalizacion, Fotolitografia, Empacado
+C. Preparacion de la oblea, Oxidacion, Difusion, Implantacion de Iones, Deposicion de vapor quimico, Metalizacion, Fotolitografia, Empacado
+D. Preparacion de la oblea, Oxidacion, Difusion, Implantacion de Iones, Deposicion de vapor quimico, Metalizacion, Empacado, Fotolitografia
+
+Los componentes en el proceso microelectronico se dopan con:
+A. Iones n
+B. Iones p
+C. Iones npn
+D. Iones pnp
+E. A y B
+F. B y C
+G. Todas las anteriores
+H. Ninguna de las anteriores
+
+Un componente Flat 1210 en sistema ingles equivale a:
+A. 3.2 x 2.6 mm en SI 
+B. 3.2 x 2.5 mm en SI
+C. 4.5 x 3.2 mm en SI
+D. 2.5 x 3.2 mm en SI

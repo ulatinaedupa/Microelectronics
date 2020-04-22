@@ -1,0 +1,66 @@
+¿Que softwares son de la compañia Altium?
+A. Altium Designer
+B. Allegro
+C. CircuitStudio
+D. OrCAD
+E. CircuitMaker
+F. A B C
+G. A C E
+H. A D E
+
+El proceso de un dibujo representativo de un circuito en “papel” se llama
+A. Captura esquematica
+B. Circuito impreso
+C. Footprint
+D. Componente
+E. Todas las anteriores
+F. Ninguna de las anteriores
+
+Que sale mas barato al pedir componentes:
+A. Traer de varios distribuidores diferentes componentes
+B. Traer de un solo distribuidor diferentes componentes
+C. Traer de un solo distribuidor un solo fabricante de componentes
+D. Trear de varios distribuidores un solo fabricante de componentes
+
+Para buscar un nuevo componente en el distribuidor utilizamos:
+A. Libraries / Part Search
+B. Project / Part Search
+C. PCB / Part Search
+D. User / Part Search
+E. Panel / Part Search
+
+Si en mi esquematico necesito crear 10 resistores de 1K, 40 x 10k, 1 x 100k, 10 x 200k. Debo crear un elemento por cada resistor en mi libreria, en este caso 61 elementos en mi libreria SI.
+A. Si
+B. No
+
+En que menu se encuentra para mover una pieza de dibujo al fondo del esquematico:
+A. Edit / Align / Send to Back
+B. Edit / Deselect / Send to Back
+C. Edit / Move / Send to Back
+D. Edit / Select / Send to Back
+E. Edit / Case / Send to Back
+
+¿Que son el Designator y el Name en captura esquematica para un pin?
+A. El designator es el nombre del pin, el name es el numero del pin
+B. El designator es el numero del pin, el name es el nombre de la pieza
+C. El designator es el numero del pin, el name es el nombre del pin
+D. Ninguna de las anteriores
+E. Todas las anteriores
+
+¿Para que sirve el designador de la pieza, por ejemplo ‘U?’ ?
+A. Sirve para vincular el componente esquematico con el documento de fabricacion
+B. Sirve para describir el uso de la pieza
+C. Sirve para describir cada componente a la hora de anotar el esquematico
+D. Ninguna de las anteriores
+E. Todas las anteriores
+
+¿El integrado BQ500511 es un transmisor Qi Wireless?
+A. Si
+B. No
+
+¿Cuanto es el limite de la libreria en altium?
+A. El limite son 2000 componentes
+B. El limite son 4000 componentes
+C. El limite son 10000 componentes
+D. El limite esta en la licencia
+E. No existe limite, el limite es el disco duro
